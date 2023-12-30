@@ -13,18 +13,11 @@ body{
     justify-content: center;
     align-items: center;
 }
-h1,#num,  #btn, #res{
+h1, #num, #res{
     margin: 10px;
 }
 #num{
     padding: 10px;
     border: 1px solid #787878;
     border-radius: 10px;
-}
-#btn{
-    padding: 10px;
-    background-color: #f19136;
-    border: none;
-    border-radius: 10px;
-    width: 210px;
 }
